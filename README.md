@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chynippon
-- 👀 I’m interested in ...Coding, Android development, Physics, Astronomy, Ethical Hacking 
-- 🌱 I’m currently learning ...Android Dev
+- 👋 Hi, I’m Nippon Chowdhury
+- 👀 I’m interested in ...Coding, Android development, Physics, Astronomy 
+- 🌱 I’m currently Doing and IOS...Android Dev
 - 💞️ I’m looking to collaborate on ...Codidng and Android Dev
 - 📫 How to reach me ...mindbend91@gmail.com
 
